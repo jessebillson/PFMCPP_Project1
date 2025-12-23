@@ -52,84 +52,91 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       toilet
+//  action 1:   the toilet flushes 
+toilet.flush();
+//  action 2:   the toilet clogs
+toilet.clog();
+//  action 3:   the toilet overflows
 
-//  action 2:
-
-//  action 3:
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:    dog
+//  action 1:    the dog sleeps on the couch
+dog.sleepOnCouch();
+//  action 2:    the dog eats lunch
+dog.eatLunch();
+//  action 3:    the dog bites children
+dog.bitesChildren();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:    truck
+//  action 1:    the truck tows a trailer
+truck.towsATrailer();
+//  action 2:    the truck breaks down
+truck.breaksDown();
+//  action 3:    the truck is a tall truck
+truck.rideHeight();
 
-//  action 2:
-
-//  action 3:
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:    neighbor
+//  action 1:    the neighbor mows the lawn
+neighbor.mowsLawn();
+//  action 2:    the neighbor gets drunk
+neighbor.getsDrunk();
+//  action 3:    the neighbor yells at his wife
+neighbor.yellsAtWife();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    weather
+//  action 1:    clear sky
+weather.clearSky();
+//  action 2:    the weather has had foggy nights
+weather.foggyNights();
+//  action 3:    the days are cold
+weather.coldDays();
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:    guitar
+//  action 1:    you can strum the guitar
+guitar.strum();
+//  action 2:    you can do hammer ons
+guitar.hammerOn();
+//  action 3:    you can distort the guitar with an amp
+guitar.ampDistort();
+//  7)    
+//  Noun:    gamer
+//  action 1:    the gamer loses the game
+gamer.gameOver();
+//  action 2:    the gamer wins the game
+gamer.endCredits();
+//  action 3:    the gamer runs out of time
+gamer.timeOut();
 
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  8)    
+//  Noun:    gardener
+//  action 1:    the gardener cut the tree down
+gardener.cutDownTree();
+//  action 2:    the gardener got bit by a snake
+gardener.snakeAttack();
+//  action 3:    the gardener got lost on the way over again
+gardener.timesLost();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    drummer
+//  action 1:    my drummer is going bald
+drummer.baldAmount();
+//  action 2:    my drummer has gained a lot of weight
+drummer.weightAmount();
+//  action 3:    my drummer is on antidepressants
+drummer.sanityLevel();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:    officer
+//  action 1:    officer shoots victims arm
+officer.shootVictimArm();
+//  action 2:    officer got shot in the leg
+officer.LegInjury();
+//  action 3:    officer was fired after incident
+officer.firedAfterIncident();
 
 
 
