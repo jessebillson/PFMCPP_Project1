@@ -52,97 +52,104 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       toilet
+//  action 1:   the toilet flushes 
+toilet.flush();
+//  action 2:   the toilet clogs
+toilet.clog();
+//  action 3:   the toilet overflows
+toilet.overflow();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:    dog
+//  action 1:    the dog sleeps on the couch
+dog.sleepOnCouch();
+//  action 2:    the dog eats lunch
+dog.eatLunch();
+//  action 3:    the dog bites children
+dog.bitesChildren();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:    truck
+//  action 1:    the truck tows a trailer
+truck.towsATrailer();
+//  action 2:    the truck breaks down
+truck.breaksDown();
+//  action 3:    the truck goes in reverse
+truck.reverseDirection();
 
-//  action 2:
-
-//  action 3:
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:    neighbor
+//  action 1:    the neighbor mows the lawn
+neighbor.mowsLawn();
+//  action 2:    the neighbor gets drunk
+neighbor.getsDrunk();
+//  action 3:    the neighbor yells at his wife
+neighbor.yellsAtWife();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    television remote
+//  action 1:    remote used to turn on the television
+televisionRemote.turnTelevisionOn();
+//  action 2:    remote used to change the channel
+televisionRemote.changeTelevisionChannel();
+//  action 3:    remote used to turn the volume up
+televisionRemote.televisionVolumeUp();
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:    guitar player
+//  action 1:    guitar strings needs to be tuned
+guitar.playerTuneStrings();
+//  action 2:    guitar can be finger picked
+guitar.playerFingerPick();
+//  action 3:    guitar strings can be changed
+guitar.playerChangeStrings();
+//  7)    
+//  Noun:    gamer
+//  action 1:    the gamer loses the game
+gamer.gameOver();
+//  action 2:    the gamer presses start to begin the game
+gamer.pressStartBeginGame();
+//  action 3:    the gamer runs out of time
+gamer.timeOut();
 
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  8)    
+//  Noun:    gardener
+//  action 1:    the gardener uses shovel to dig hole
+gardener.digWithShovel();
+//  action 2:    the gardener mows lawn
+gardener.mowsLawn();
+//  action 3:    the gardener rakes leaves
+gardener.rakesLeaves();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    drummer
+//  action 1:    drummer hits cymbal
+drummer.hitCymbal();
+//  action 2:    drummer hits snare
+drummer.hitSnare();
+//  action 3:    drummer kicks bass drum
+drummer.hitBassDrum();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun:    officer
+//  action 1:    officer writes a citation
+officer.writeCitation();
+//  action 2:    officer handcuff suspect
+officer.handcuffSuspect();
+//  action 3:    officer checks suspect license plate
+officer.checkLicensePlate();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +157,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
