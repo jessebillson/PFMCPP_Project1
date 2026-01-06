@@ -75,8 +75,8 @@ dog.bitesChildren();
 truck.towsATrailer();
 //  action 2:    the truck breaks down
 truck.breaksDown();
-//  action 3:    the truck is a tall truck
-truck.rideHeight();
+//  action 3:    the truck goes in reverse
+truck.reverseDirection();
 
 
 //  4)
@@ -89,54 +89,54 @@ neighbor.getsDrunk();
 neighbor.yellsAtWife();
 
 //  5)
-//  Noun:    weather
-//  action 1:    clear sky
-weather.clearSky();
-//  action 2:    the weather has had foggy nights
-weather.foggyNights();
-//  action 3:    the days are cold
-weather.coldDays();
+//  Noun:    television remote
+//  action 1:    remote used to turn on the television
+television.remoteTurnOn();
+//  action 2:    remote used to change the channel
+television.remoteChangeChannel();
+//  action 3:    remote used to turn the volume up
+television.remoteVolumeUp();
 //  6)
-//  Noun:    guitar
-//  action 1:    you can strum the guitar
-guitar.strum();
-//  action 2:    you can do hammer ons
-guitar.hammerOn();
-//  action 3:    you can distort the guitar with an amp
-guitar.ampDistort();
+//  Noun:    guitar player
+//  action 1:    guitar strings needs to be tuned
+guitar.playerTuneStrings();
+//  action 2:    guitar can be finger picked
+guitar.playerFingerPick();
+//  action 3:    guitar strings can be changed
+guitar.playerChangeStrings();
 //  7)    
 //  Noun:    gamer
 //  action 1:    the gamer loses the game
 gamer.gameOver();
-//  action 2:    the gamer wins the game
-gamer.endCredits();
+//  action 2:    the gamer presses start to begin the game
+gamer.pressStartBeginGame();
 //  action 3:    the gamer runs out of time
 gamer.timeOut();
 
 //  8)    
 //  Noun:    gardener
-//  action 1:    the gardener cut the tree down
-gardener.cutDownTree();
-//  action 2:    the gardener got bit by a snake
-gardener.snakeAttack();
-//  action 3:    the gardener got lost on the way over again
-gardener.timesLost();
+//  action 1:    the gardener uses shovel to dig hole
+gardener.digWithShovel();
+//  action 2:    the gardener mows lawn
+gardener.mowsLawn();
+//  action 3:    the gardener rakes leaves
+gardener.rakesLeaves();
 //  9)
 //  Noun:    drummer
-//  action 1:    my drummer is going bald
-drummer.baldAmount();
-//  action 2:    my drummer has gained a lot of weight
-drummer.weightAmount();
-//  action 3:    my drummer is on antidepressants
-drummer.sanityLevel();
+//  action 1:    drummer hits cymbal
+drummer.hitCymbal();
+//  action 2:    drummer hits snare
+drummer.hitSnare();
+//  action 3:    drummer kicks bass drum
+drummer.hitBassDrum();
 //  10)
 //  Noun:    officer
-//  action 1:    officer shoots victims arm
-officer.shootVictimArm();
-//  action 2:    officer got shot in the leg
-officer.LegInjury();
-//  action 3:    officer was fired after incident
-officer.firedAfterIncident();
+//  action 1:    officer writes a citation
+officer.writeCitation();
+//  action 2:    officer handcuff suspect
+officer.handcuffSuspect();
+//  action 3:    officer checks suspect license plate
+officer.checkLicensePlate();
 
 #endif
 
