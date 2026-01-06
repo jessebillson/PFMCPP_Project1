@@ -91,11 +91,11 @@ neighbor.yellsAtWife();
 //  5)
 //  Noun:    television remote
 //  action 1:    remote used to turn on the television
-televisionRemote.turnOn();
+televisionRemote.turnTelevisionOn();
 //  action 2:    remote used to change the channel
-televisionRemote.changeChannel();
+televisionRemote.changeTelevisionChannel();
 //  action 3:    remote used to turn the volume up
-televisionRemote.volumeUp();
+televisionRemote.televisionVolumeUp();
 //  6)
 //  Noun:    guitar player
 //  action 1:    guitar strings needs to be tuned
